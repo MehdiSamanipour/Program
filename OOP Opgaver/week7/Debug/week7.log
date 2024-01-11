@@ -1,0 +1,7 @@
+﻿  card.cpp
+  Source.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\week7\karakter.h(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LEGION\source\repos\OOP Opgaver\week7\Source.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+  Time.cpp
+  Generating Code...
+  week7.vcxproj -> C:\Users\LEGION\source\repos\OOP Opgaver\Debug\week7.exe

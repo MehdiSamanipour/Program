@@ -1,0 +1,3 @@
+﻿  test-IntArray.cpp
+test-IntArray.obj : error LNK2019: unresolved external symbol "public: void __thiscall CircularBuffer2::insert(class Point const &)" (?insert@CircularBuffer2@@QAEXABVPoint@@@Z) referenced in function _main
+C:\Users\LEGION\source\repos\OOP Opgaver\Debug\OOP OPGAVER5.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,16 @@
+﻿  CircularBuffer-int.cpp
+  CircularBuffer-Point.cpp
+  isEqualTO.cpp
+  Lifoqueue.cpp
+  Person.cpp
+  Point.cpp
+  testCircularBuffer-int.cpp
+  testCircularBuffer-Point.cpp
+  TestClass.cpp
+  test_Lifoqueue.cpp
+  test_TestClass.cpp
+  Generating Code...
+CircularBuffer-Point.obj : error LNK2005: "public: __thiscall CircularBuffer::CircularBuffer(int)" (??0CircularBuffer@@QAE@H@Z) already defined in CircularBuffer-int.obj
+CircularBuffer-Point.obj : error LNK2005: "public: __thiscall CircularBuffer::~CircularBuffer(void)" (??1CircularBuffer@@QAE@XZ) already defined in CircularBuffer-int.obj
+CircularBuffer-Point.obj : error LNK2005: "public: void __thiscall CircularBuffer::print(void)const " (?print@CircularBuffer@@QBEXXZ) already defined in CircularBuffer-int.obj
+C:\Users\LEGION\source\repos\OOP Opgaver\Debug\OOP OPGAVER7.exe : fatal error LNK1169: one or more multiply defined symbols found

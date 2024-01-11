@@ -1,0 +1,11 @@
+﻿  Butik.h
+  Testmain.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Testmain.cpp(12,8): warning C4930: 'Butik Butik0(void)': prototyped function not called (was a variable definition intended?)
+  Vare.cpp
+  Generating Code...
+x64\Debug\Butik.obj : warning LNK4042: object specified more than once; extras ignored
+Testmain.obj : error LNK2019: unresolved external symbol "public: __cdecl Butik::Butik(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Butik@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function main
+Testmain.obj : error LNK2019: unresolved external symbol "public: void __cdecl Butik::tilfoejVare(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double)" (?tilfoejVare@Butik@@QEAAXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@N@Z) referenced in function main
+Testmain.obj : error LNK2019: unresolved external symbol "public: void __cdecl Butik::printLager(void)const " (?printLager@Butik@@QEBAXXZ) referenced in function main
+Testmain.obj : error LNK2019: unresolved external symbol "public: __cdecl Butik::~Butik(void)" (??1Butik@@QEAA@XZ) referenced in function main
+C:\Users\LEGION\source\repos\OOP Opgaver\x64\Debug\Eksam2016.exe : fatal error LNK1120: 4 unresolved externals

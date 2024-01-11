@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OOP Opgaver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Date.cpp
+  Name.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\LEGION\source\repos\OOP Opgaver\x64\Debug\OOP Opgaver1.exe : fatal error LNK1120: 1 unresolved externals

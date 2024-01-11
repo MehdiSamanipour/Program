@@ -1,0 +1,8 @@
+﻿  c funktioner.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(28,34): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(28,34): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(45,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(45,11): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(51,5): error C2601: 'main': local function definitions are illegal
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(20): message : this line contains a '{' which has not yet been matched
+C:\Users\LEGION\source\repos\OOP Opgaver\EKSAM 2020\c funktioner.cpp(20): fatal  error C1075: '{': no matching token found

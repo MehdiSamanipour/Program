@@ -1,0 +1,7 @@
+﻿  Samling.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\EksamJun23\Samling.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  func.cpp
+  wire.cpp
+  Generating Code...
+  EksamJun23.vcxproj -> C:\Users\LEGION\source\repos\OOP Opgaver\Debug\EksamJun23.exe

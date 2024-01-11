@@ -1,0 +1,26 @@
+﻿  Butik.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Vare.h(15,1): error C2504: 'Butik': base class undefined
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,9): error C3646: 'Kasser_': unknown override specifier
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,16): error C2143: syntax error: missing ',' before '['
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.cpp(16,3): error C2065: 'Kasser_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.cpp(75,3): error C2065: 'Kasser_': undeclared identifier
+  Butik.h
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(21,7): error C3646: 'Varer_': unknown override specifier
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(21,13): error C2143: syntax error: missing ',' before '['
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(21,26): error C2238: unexpected token(s) preceding ';'
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,9): error C3646: 'Kasser_': unknown override specifier
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,16): error C2143: syntax error: missing ',' before '['
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(9,1): error C2011: 'Butik': 'class' type redefinition
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(8,7): message : see declaration of 'Butik'
+  Kasse.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Vare.h(15,1): error C2504: 'Butik': base class undefined
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,9): error C3646: 'Kasser_': unknown override specifier
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,16): error C2143: syntax error: missing ',' before '['
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(22,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Kasse.cpp(15,1): error C2512: 'Butik': no appropriate default constructor available
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Butik.h(8,7): message : see declaration of 'Butik'
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Kasse.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LEGION\source\repos\OOP Opgaver\Eksam2016\Kasse.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...

@@ -1,0 +1,8 @@
+﻿  Adresse.cpp
+  Kontakt.cpp
+  Source.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\EksamJun2022\Source.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LEGION\source\repos\OOP Opgaver\EksamJun2022\Source.cpp(52,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\LEGION\source\repos\OOP Opgaver\EksamJun2022\Source.cpp(53,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  EksamJun2022.vcxproj -> C:\Users\LEGION\source\repos\OOP Opgaver\Debug\EksamJun2022.exe

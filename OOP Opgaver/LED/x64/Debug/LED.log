@@ -1,0 +1,5 @@
+﻿  Led.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\LED\Led.cpp(2,10): error C1083: Cannot open include file: 'RaspberryDLL.h': No such file or directory
+  Source.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\LED\Source.cpp(4,10): error C1083: Cannot open include file: 'RaspberryDLL.h': No such file or directory
+  Generating Code...

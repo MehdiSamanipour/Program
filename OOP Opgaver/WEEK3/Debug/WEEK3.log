@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\Source.cpp(39,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\Source.cpp(43,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  stackheader.h
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(56,16): error C2143: syntax error: missing ';' before '*'
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(60,2): message : see reference to class template instantiation 'StackArray<Objekt>' being compiled
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(56,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(14,9): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(14,9): error C2065: 'array_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(19,18): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(19,18): error C2065: 'array_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(33,30): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(35,22): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(36,13): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(37,13): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(43,13): error C3861: 'array_': identifier not found
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(33,30): error C2065: 'array_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(35,22): error C2065: 'array_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(36,13): error C2065: 'array_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(37,13): error C2065: 'array_': undeclared identifier
+C:\Users\LEGION\source\repos\OOP Opgaver\WEEK3\stackheader.h(43,13): error C2065: 'array_': undeclared identifier
+  Generating Code...

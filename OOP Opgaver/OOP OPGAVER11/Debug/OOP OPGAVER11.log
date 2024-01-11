@@ -1,0 +1,6 @@
+﻿  Ellipse.cpp
+  testShips.cpp
+  Triangle.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\OOP OPGAVER11\Triangle.cpp(80,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  OOP OPGAVER11.vcxproj -> C:\Users\LEGION\source\repos\OOP Opgaver\Debug\OOP OPGAVER11.exe

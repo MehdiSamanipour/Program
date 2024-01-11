@@ -1,0 +1,6 @@
+﻿  Subject.cpp
+  WebLink.cpp
+  Generating Code...
+Subject.obj : error LNK2005: "public: void __thiscall Subject::printText(void)const " (?printText@Subject@@QBEXXZ) already defined in print.obj
+WebLink.obj : error LNK2005: "public: void __thiscall WebLink::printWebLink(void)const " (?printWebLink@WebLink@@QBEXXZ) already defined in print.obj
+C:\Users\LEGION\source\repos\OOP Opgaver\Debug\OOP OPGAVER3.exe : fatal error LNK1169: one or more multiply defined symbols found

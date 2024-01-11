@@ -1,0 +1,5 @@
+﻿  DataStorage.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\OOP OPGAVER8\DataStorage.cpp(31,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  test_DataStorage.cpp
+  Generating Code...
+  OOP OPGAVER8.vcxproj -> C:\Users\LEGION\source\repos\OOP Opgaver\x64\Debug\OOP OPGAVER8.exe

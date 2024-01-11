@@ -1,0 +1,15 @@
+﻿  Validating sources
+  Copying sources remotely to 'raspberrypi'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Linking objects
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/obj/ARM/Debug/main.o: in function `main':
+C:\Users\LEGION\source\repos\OOP Opgaver\Blink1\main.cpp(14): error : undefined reference to `Open'
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/main.cpp:19: undefined reference to `getTemperature'
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/main.cpp:24: undefined reference to `ledOn'
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/main.cpp:25: undefined reference to `ledOn'
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/main.cpp:29: undefined reference to `ledOff'
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/main.cpp:30: undefined reference to `ledOff'
+/usr/bin/ld : error : /home/LEGION/projects/Blink1/main.cpp:33: undefined reference to `lcdShutdown'
+collect2 : error : ld returned 1 exit status

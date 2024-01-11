@@ -1,0 +1,5 @@
+﻿  Medarbejder.cpp
+  Source.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\EksamAug20\Source.cpp(47,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  EksamAug20.vcxproj -> C:\Users\LEGION\source\repos\OOP Opgaver\Debug\EksamAug20.exe

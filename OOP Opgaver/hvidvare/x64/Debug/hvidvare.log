@@ -1,0 +1,63 @@
+﻿  Hvidevare.cpp
+  Koeleskab.cpp
+  Moentsamling.cpp
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(14,24): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(21,27): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(21,40): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(21,27): message : while trying to match the argument list '(const int)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(21,60): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(22,22): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'Moent *const ' to 'const char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(22,35): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(22,22): message : while trying to match the argument list '(Moent *const )'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(22,2): error C2660: 'strcpy_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(32,30): message : see declaration of 'strcpy_s'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(124,1): message : could be 'errno_t strcpy_s(char (&)[_Size],const char *) throw()'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(22,2): message : 'errno_t strcpy_s(char (&)[_Size],const char *) throw()': could not deduce template argument for 'char (&)[_Size]' from 'Moent *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(22,2): message : while trying to match the argument list '(Moent *, Moent *const )'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(31,7): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'int' to 'const char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(31,14): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(31,7): message : while trying to match the argument list '(int)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(31,32): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(31,45): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(31,32): message : while trying to match the argument list '(const int)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(33,26): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(34,4): error C2065: 'titel_': undeclared identifier
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(34,22): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(34,35): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(34,22): message : while trying to match the argument list '(const int)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(34,55): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(36,27): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(36,40): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(36,27): message : while trying to match the argument list '(const int)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(36,3): error C2660: 'strcpy_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(32,30): message : see declaration of 'strcpy_s'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(124,1): message : could be 'errno_t strcpy_s(char (&)[_Size],const char *) throw()'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(36,3): message : 'errno_t strcpy_s(char (&)[_Size],const char *) throw()': could not deduce template argument for 'char (&)[_Size]' from 'int'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(36,3): message : while trying to match the argument list '(int, const int)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(46,32): error C2677: binary '[': no global operator found which takes type 'const Moent' (or there is no acceptable conversion)
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(48,2): error C2065: 'moentPtr': undeclared identifier
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(48,23): error C2440: 'initializing': cannot convert from 'const Moent' to 'size_t'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(48,23): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(50,18): error C2440: '=': cannot convert from 'Moentsamling *' to 'int'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(50,18): message : There is no context in which this conversion is possible
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(51,2): error C2664: 'errno_t strcpy_s(char *,rsize_t,const char *)': cannot convert argument 1 from 'int' to 'char *'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(51,11): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(32,30): message : see declaration of 'strcpy_s'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(124,1): message : could be 'errno_t strcpy_s(char (&)[_Size],const char *) throw()'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(51,2): message : 'errno_t strcpy_s(char (&)[_Size],const char *) throw()': expects 2 arguments - 3 provided
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(51,2): message : while trying to match the argument list '(int, int, const Moent)'
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(55,9): error C2065: 'moentPtr': undeclared identifier
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(55,17): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Moentsamling.cpp(62,1): error C2059: syntax error: '}'
+  Source.cpp
+  Vaskemaskine.cpp
+C:\Users\LEGION\Desktop\SW2OOP _ E2OOP-01 Objektorient 16-06-2022\OOP-Eksamen-22\OOP-Eksamen-22\Vaskemaskine.cpp(8,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Moent.cpp
+C:\Users\LEGION\source\repos\OOP Opgaver\hvidvare\Moent.cpp(1,10): fatal  error C1083: Cannot open include file: 'Moent': No such file or directory
+  Generating Code...
